@@ -1,0 +1,5 @@
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+server-->browser: JSON file
+
+note over browser:
+browser refreshes only the necessary parts
